@@ -205,21 +205,7 @@ All dashboards include filters for **state**, **category**, and **day of week**.
 - **Location (city)** and **review count** are the strongest predictors of business success
 - Temporal check-in patterns alone achieve **AUC of 0.99** for foot traffic prediction
 
----
 
-## Project Structure
-
-```
-yelp-business-analytics/
-│
-├── yelp_analysis.ipynb          # Main Google Colab notebook (PySpark pipeline)
-├── yelp_dashboard.twbx          # Tableau workbook
-├── README.md
-│
-└── appendices/                  # Supporting screenshots (optional)
-```
-
----
 
 ## How to Run
 
